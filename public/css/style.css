@@ -1,0 +1,45 @@
+header {
+  background-color: #38302F;
+  padding: 75px;
+}
+
+a {
+  color: #B6B9B5;
+  text-decoration: none;
+}
+
+h2 {
+  color: #38302F;
+  border: 3px solid black;
+  display: inline-block;
+  padding: 7px;
+  border-radius: 7px;
+  background-color: #D1DAD3;
+  box-shadow: 5px 5px #726A69;
+}
+
+ul {
+  list-style: none;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  height: 2.5rem;
+}
+
+#navbar {
+  display: inline-block;
+
+}
