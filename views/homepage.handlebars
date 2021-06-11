@@ -1,0 +1,12 @@
+<h1><strong>Recent Posts</strong></h1>
+<ul>
+{{#each posts as |post|}}
+<a href='single-post'>
+<h3>{{post.title}}</h3></a>
+<hr>
+<li>{{post.post_content}}</li>
+<hr>
+<p>{{post.created_at}}</p>
+<br>
+{{/each}}
+</ul>
