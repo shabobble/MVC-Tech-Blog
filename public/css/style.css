@@ -1,6 +1,6 @@
-header {
+#navheader {
   background-color: #38302F;
-  padding: 75px;
+  height: 250px;
 }
 
 a {
@@ -41,5 +41,20 @@ footer {
 
 #navbar {
   display: inline-block;
+}
 
+#create-post, #back {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #298fd3;
+    padding: 14px 28px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 0 0 1px #ccc;
+    -webkit-transition-duration: 0.2s;
+    -webkit-transition-timing-function: linear;
+    box-shadow:0px 0 0 #31708f  inset;
 }
