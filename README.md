@@ -55,7 +55,7 @@ The goal of this project was to build a CMS-style blog site similar to a Wordpre
 
 ## Screenshot
 
-* [Homepage Screenshot](/public/images/techblogscreenshot.png)
+![Homepage Screenshot](/public/images/techblogscreenshot.png)
 
 ## Installation
 
